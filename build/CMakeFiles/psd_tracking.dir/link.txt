@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -std=c++11 -Wall    -shared -Wl,-soname,libpsd_tracking.so -o lib/libpsd_tracking.so CMakeFiles/psd_tracking.dir/src/earth.cpp.o 

@@ -1,0 +1,9 @@
+/home/roman/code/momenta/barrier_detection/build/CMakeFiles/rebuild_cache.dir
+/home/roman/code/momenta/barrier_detection/build/CMakeFiles/compute_normal.dir
+/home/roman/code/momenta/barrier_detection/build/CMakeFiles/psd_tracking.dir
+/home/roman/code/momenta/barrier_detection/build/CMakeFiles/edit_cache.dir
+/home/roman/code/momenta/barrier_detection/build/CMakeFiles/resampling.dir
+/home/roman/code/momenta/barrier_detection/build/CMakeFiles/detatch_line.dir
+/home/roman/code/momenta/barrier_detection/build/CMakeFiles/doffiltering.dir
+/home/roman/code/momenta/barrier_detection/build/CMakeFiles/barrier_detection.dir
+/home/roman/code/momenta/barrier_detection/build/CMakeFiles/condition_cluster.dir
